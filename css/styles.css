@@ -176,6 +176,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   color: #363d47;
 }
 
+h2.white {
+  color: #FFF;
+}
+
 h1, .h1 {
   font-size: calc(1.275rem + 0.3vw);
 }
@@ -10335,7 +10339,7 @@ textarea.form-control-lg {
 }
 
 .pt-10 {
-  padding-top: 6rem !important;
+  padding-top: 2rem !important;
 }
 
 .pt-15 {
@@ -10395,7 +10399,7 @@ textarea.form-control-lg {
 }
 
 .pb-5 {
-  padding-bottom: 2.5rem !important;
+  padding-bottom: 0.25rem !important;
 }
 
 .pb-10 {
